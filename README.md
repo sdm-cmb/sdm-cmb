@@ -1,5 +1,4 @@
-![Rosa Amarelo e Preto Gamer Grunge Banner para Twitch](https://github.com/sdm-cmb/sdm-cmb/assets/59738106/1b74f7e5-49e5-4106-8f72-f88bb5950fb2)
-
+![Rosa Amarelo e Preto Gamer Grunge Banner para Twitch](https://github.com/sdm-cmb/sdm-cmb/assets/59738106/6e8a0f93-ccac-4e90-95bb-61f2319bc7f0)
 
 # 🖥 &nbsp;Status # 📘   
 <p><img src="https://github-readme-stats.vercel.app/api?username=sdm-cmb&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false" alt="cxyfreedom" /></p>
