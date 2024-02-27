@@ -1,7 +1,7 @@
 ![Black Yellow Graffiti General Twitch Banner](https://github.com/sdm-cmb/sdm-cmb/assets/59738106/8c0d71de-e38c-49cc-9f16-6b607484d3e4)
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Revolution&pause=1000&color=9B04D4&background=27FFBC00&center=true&vCenter=true&random=false&width=435&lines=Analise+e+desenvolvimento+de+sistema;Python+%7C+Java+%7C+SQL+%7C+C+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Revolution&pause=1000&color=9B04D4&background=27FFBC00&center=true&vCenter=true&random=false&width=435&lines=Analise+e+desenvolvimento+de+sistema;Python+%7C+Java+%7C+SQL+%7C+C+%7C+Html+%7C+Css" alt="Typing SVG" /></a>
 </p>
 
 # 🖥 &nbsp;Status # 📘   
