@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<a <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Revolution&pause=1000&color=9B04D4&random=false&width=435&lines=Analise+e+desenvolvimento+de+sistema;Caio+Bercheli" alt="Typing SVG" /></a> /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Protest+Revolution&pause=1000&color=9B04D4&random=false&width=435&lines=Analise+e+desenvolvimento+de+sistema;Caio+Bercheli)](https://git.io/typing-svg)
 </p>
 
 # 🖥 &nbsp;Status # 📘   
